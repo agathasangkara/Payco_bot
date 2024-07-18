@@ -33,3 +33,14 @@
 This script was made for educational purposes, I am not responsible for your actions using this script. This script was made for educational purposes.
 
 ---------------------------------------
+
+</details>
+<details>
+    <summary><b> Preview Click Here </b></summary><br/>
+
+![IMG_20230128_212429_1](https://github.com/user-attachments/assets/262776dd-2120-4ee3-b34f-1d76909485f7)
+
+</p>
+</details>
+
+---------------------------------------
