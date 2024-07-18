@@ -45,7 +45,7 @@ This script was made for educational purposes, I am not responsible for your act
 
 ---------------------------------------
 
-+ Unlimited create account Payco
-- slow due to using proxies
++ Unlimited create account Payco ( +++++ )
+- slow due to using proxies ( ----- )
 
 ---------------------------------------
