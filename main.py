@@ -100,6 +100,7 @@ options.add_argument("--allow-insecure-localhost")
 
 try:
     driver = webdriver.Chrome(options=options)
+    time.sleep(3)
     os.system('cls' if os.name == "nt" else 'clear')
     print(F'''
 {Style.BRIGHT}   ___                      
