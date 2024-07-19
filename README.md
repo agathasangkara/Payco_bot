@@ -7,7 +7,7 @@
   <h2 align="center">Payco Automator Bot</h3>
 
   <p align="center">
-    Payco auto create <b>Unlimited with Proxies</b>
+    Payco auto create <b>Unlimited with Proxies + Auto Confirmation Email</b>
     <br />
     <br />
     <a href="https://t.me/chsangkara">Join Telegram Server</a>
