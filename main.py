@@ -96,7 +96,7 @@ options.add_argument("--disable-gpu")
 options.add_argument("--window-size=400,400")
 options.add_argument("--ignore-certificate-errors")
 options.add_argument("--allow-insecure-localhost")
-# options.add_argument("--headless") #not work , check compatible your chrome version
+# options.add_argument("--headless") #not work , check compatible your chrome version using proxies
 
 try:
     driver = webdriver.Chrome(options=options)
@@ -150,6 +150,8 @@ try:
                     f.write(f"{email} | {password}\n")
             else:
                 print(F.RED + "Verification failed.")
+                with open("unverifpayco.txt", "a") as f:
+                    f.write(f"{email} | {password}\n")
             
         except Exception as e:
             driver.execute_script("window.open('');")
