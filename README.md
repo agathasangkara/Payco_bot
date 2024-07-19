@@ -38,7 +38,7 @@ This script was made for educational purposes, I am not responsible for your act
 <details>
     <summary><b> Preview Click Here </b></summary><br/>
 
-![IMG_20230128_212429_1](https://github.com/user-attachments/assets/262776dd-2120-4ee3-b34f-1d76909485f7)
+![IMG_20230128_212429_1](https://github.com/user-attachments/assets/8e95e467-ccd4-4093-bcce-32bb81ff0d7a)
 
 </p>
 </details>
