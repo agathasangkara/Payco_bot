@@ -24,7 +24,7 @@
 1. Install Python from <a href="https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe">here</a>. It is super important that checkbox `Add Python to PATH` is checked on setup.
 2. After Python is installed, you need to install the required modules that are used for this script. 
 3. Open the file called `requirements.bat`. This will do everything for you with no issues, simple.
-4. Download ZIP <a href="https://github.com/agathasangkara/Payco_temp/archive/refs/heads/main.zip">here</a> and extract the ZIP
+4. Download ZIP <a href="https://github.com/agathasangkara/Payco_creator/archive/refs/heads/main.zip">here</a> and extract the ZIP
 5. Open the file called `run.bat`.
 
 ---------------------------------------
