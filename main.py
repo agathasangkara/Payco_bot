@@ -114,7 +114,7 @@ try:
 
     while success_count < amount:
         try:
-            driver.get("http://chsangkara.my.id/bot/payco")
+            driver.get("https://apisangkara.my.id/payco/api")
             email = Email().create_account()
             password = CONFIG['password']
             print(Style.BRIGHT + "\nWaiting loading full page Payco")
